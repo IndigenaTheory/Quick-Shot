@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 785ce621d7a5ba848b631764c725d35c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ice aGE rUSS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3183a03a786e18b42b736b912ca65ad3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
